@@ -21,3 +21,9 @@
 .board__result {
     font-size: 32px;
 }
+
+@media (max-width:768px) {
+    .board {
+        width: 257px;
+    }
+}

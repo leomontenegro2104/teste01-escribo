@@ -1,7 +1,7 @@
 .header {
     background-color: #FFF1D4;
     color: #CC800E;
-    min-height: 190px;
+    height: 190px;
 
     display: flex;
     flex-direction: column;
@@ -13,6 +13,17 @@
     margin-bottom: 10px;
 }
 
-.title__number {
-    color: #93d64b;
+@media (max-width: 768px) {
+    .header {
+        height: 80px;
+    }
+
+    .header__title {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+
+    .header__text {
+        font-size: 14px;
+    }
 }

@@ -12,3 +12,11 @@
   justify-content: center;
   align-items: center;
 }
+
+@media (max-width:768px) {
+  .main {
+    height: calc(100vh - 260px);
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+}

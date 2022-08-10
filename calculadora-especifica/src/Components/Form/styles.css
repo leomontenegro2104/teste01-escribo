@@ -69,3 +69,18 @@
     color: red;
     font-size: 12px;
 }
+
+@media (max-width: 768px) {
+    .form {
+        margin: 0;
+    }
+
+    .form__input-container,
+    .form__input {
+        margin-bottom: 5px;
+    }
+
+    .form__label {
+        margin-bottom: 2px;
+    }
+}

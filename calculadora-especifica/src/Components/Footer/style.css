@@ -52,3 +52,28 @@
 .logo-github:active {
     transform: scale(1);
 }
+
+@media (max-width: 768px) {
+    .footer {
+        min-height: 90px;
+        padding: 0px 20px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer__information {
+        border: none;
+        justify-content: center;
+    }
+
+    .information__text {
+        font-size: 10px;
+    }
+
+    .logo-linkedin,
+    .logo-github {
+        width: 40px;
+        height: 40px;
+        margin-right: 10px;
+    }
+}
