@@ -2,7 +2,8 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/leomontenegro2104/teste01-escribo/blob/main/LICENCE)
 
 ## Sobre o Projeto 🔎
---link para o projeto--
+
+[Link para o projeto](https://calculadorapersonalizada.netlify.app/)
 
 Trata-se de uma calculadora que recebe um número inteiro positivo e retorna o
 somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao
