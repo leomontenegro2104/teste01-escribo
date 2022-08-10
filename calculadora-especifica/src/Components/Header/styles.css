@@ -1,0 +1,18 @@
+.header {
+    background-color: #FFF1D4;
+    color: #CC800E;
+    min-height: 190px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__title {
+    margin-bottom: 10px;
+}
+
+.title__number {
+    color: #93d64b;
+}

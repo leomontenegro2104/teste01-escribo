@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+
+  background-color: #FEDD9E;
+  height: 100vh;
+}
+
+.main {
+  height: calc(100vh - 380px);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
