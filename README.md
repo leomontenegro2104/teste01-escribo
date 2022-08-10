@@ -47,7 +47,7 @@ O resultado será apresentado no quadro abaixo:
 
 ![Exemplo Output](https://github.com/leomontenegro2104/teste01-escribo/blob/main/assets/exemplo-output.png)
 
-Em caso de erro, uma mensagem será exibida abaixo do botão "calculcar"
+Em caso de erro, uma mensagem será exibida abaixo do botão "calcular"
 
 Para testar a aplicação sugiro utilizar um dos exemplos abaixo ou fique a vontade para inserir seu numero favorito 😁🤩
 
