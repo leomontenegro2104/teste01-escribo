@@ -2,16 +2,17 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/leomontenegro2104/teste01-escribo/blob/main/LICENCE)
 
 ## Sobre o Projeto 🔎
---link para o projeto--
 
-Trata-se de uma calculadora que recebe um número inteiro positivo e retorne o
+[Link para o projeto](https://calculadorapersonalizada.netlify.app/)
+
+Trata-se de uma calculadora que recebe um número inteiro positivo e retorna o
 somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao
 número passado.
 
-## Layout
-[!Web]()
+## Layout Web
+![Web](https://github.com/leomontenegro2104/teste01-escribo/blob/main/assets/layout-web.png)
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * ReactJs;
 * HTML/ CSS/ Javascript
 
@@ -39,6 +40,17 @@ npm start
 ```
 ## Testando a aplicação
 
+Insira um número inteiro positivo no input e clique em "Calcular" ou aperte a tecla "Enter"
+
+![Exemplo Input](https://github.com/leomontenegro2104/teste01-escribo/blob/main/assets/exemplo-input.png)
+
+O resultado será apresentado no quadro abaixo:
+
+![Exemplo Output](https://github.com/leomontenegro2104/teste01-escribo/blob/main/assets/exemplo-output.png)
+
+Em caso de erro, uma mensagem será exibida abaixo do botão "calcular"
+
+Para testar a aplicação sugiro utilizar um dos exemplos abaixo ou fique a vontade para inserir seu numero favorito 😁🤩
 
 Exemplos:
 - Caso sua função receba o inteiro 10, ela deve retornar 23, resultante do somatório
